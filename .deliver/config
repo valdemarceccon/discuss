@@ -1,0 +1,11 @@
+APP="discuss"
+
+BUILD_HOST="valdemarceccon.com.br"
+BUILD_USER="valdemar"
+BUILD_AT="/tmp/edeliver/$APP/builds"
+
+RELEASE_DIR="/tmp/edeliver/$APP/builds/_build/prod/rel/$APP"
+
+PRODUCTION_HOSTS="valdemarceccon.com.br" 
+PRODUCTION_USER="valdemar" 
+DELIVER_TO="/home/valdemar/discuss_release" 
